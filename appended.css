@@ -1,0 +1,14 @@
+.program-deleted{
+  display: none!important;
+}
+.fixed-top{
+  position: fixed!important;
+  top: 0!important;
+  bottom: auto!important;
+}
+
+.fixed-bottom{
+  position: fixed!important;
+  bottom: 0!important;
+  top: auto!important;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "plugin-bbk-generate",
+  "version": "1.0.0",
+  "description": "plugin generate fork from @imgcook/plugin-generate",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "fs-extra": "^7.0.1",
+    "ora": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node __test__.js"
+  },
+  "keywords": [
+    "plugin",
+    "generate"
+  ],
+  "author": "",
+  "license": "ISC"
+}
